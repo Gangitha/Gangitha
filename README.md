@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Gangitha
-- 👀 I’m interested in Blockchain, Trading, Electronic, Telecomunication, Mechatronic
-- 🌱 I’m currently learning at University of Moratuwa srilanka
-
--
-<!---
-Gangitha/Gangitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, I’m Gangitha Diwanjana
+- 👀 I’m interested in Blockchain, Trading, Electronic, Telecomunication, Mechatronic.
+- 🌱 I’m currently learning at University of Moratuwa srilanka.
+- You can find me on (Tiwitter @Gangithadiwa) and (Telegram @Gvih) 
