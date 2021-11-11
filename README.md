@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gangitha
 - 👀 I’m interested in Blockchain, Trading, Electronic, Telecomunication, Mechatronic
-- 🌱 I’m currently learning at University of Moratuwa
+- 🌱 I’m currently learning at University of Moratuwa srilanka
 
 -
 <!---
